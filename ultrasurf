@@ -1,3 +1,8 @@
+
+Para dropar as redes do UltraSurf, basta criar uma regra de saída de firewall para a porta 443 com destino as redes abaixo.
+
+Lembrando que levo em concideração de que o firewall de saída esteja configurado como regra padrão DROP em todas as demais portas altas.
+
 1.165.84.0/22
 1.165.88.0/22
 23.20.0.0/14
