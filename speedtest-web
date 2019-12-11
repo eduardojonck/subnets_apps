@@ -1,0 +1,17 @@
+#Portas 8080 e 5060
+
+#Se a conexão está passando pelo proxy, adicionar as portas em "Portas Permitidas e Portas SSL"
+#Se a conexão está indo direto para o firewall, libera as portas acima para os destinos abaixo
+
+velocidade.inlinetelecomunicacoes.com.br
+server-24743.prod.hosts.ooklaserver.net
+ookla.alaicom.net.br
+speedtest.teleg.com.br.prod.hosts.ooklaserver.net
+test.pntelecom.com.br.prod.hosts.ooklaserver.net
+teste.br7.net.br
+velocidade.gnettelecom.com.br
+server-24743.prod.hosts.ooklaserver.net
+velocidade.torrenet.net
+server-24743.prod.hosts.ooklaserver.net
+speedtest.naxi.com.br.prod.hosts.ooklaserver.net
+ookla.alaicom.net.br
